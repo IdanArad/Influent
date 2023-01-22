@@ -1,0 +1,24 @@
+{
+  "name": "Influent",
+  "version": "1.0.0",
+  "description": "The finest post is written for you by this Chrome Extension.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdanArad/Influent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IdanArad/Influent/issues"
+  },
+  "homepage": "https://github.com/IdanArad/Influent#readme",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "dotenv": "^16.0.3"
+  }
+}
