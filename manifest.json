@@ -1,0 +1,11 @@
+{
+    "name": "Influent",
+    "version": "1.0.0",
+    "description": "The finest post is written for you by this Chrome Extension.",
+    "manifest_version": 3,
+    "author": "Idan Arad",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "The finest post"
+    }
+}
